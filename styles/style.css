@@ -2,10 +2,9 @@
 
 body{
     background-color: #F6F7F8;
-    align-items: center;
-    justify-content: center;
 }  
 
 @theme {
   --background-image-home: url('../assets/bg.png');
+  --font-sans: 'Poppins', sans-serif; 
 }
